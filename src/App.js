@@ -6,17 +6,17 @@ const App = () => {
   const [todos, setTodos] = useState([
     {
       id: 1,
-      text: '쇠청다리도요 보러 남동유수지 가기',
+      text: '쇠청다리도요 보러 남동유수지 가기!',
       checked: true,
     },
     {
       id: 2,
-      text: '박새보러 서울대 가기',
+      text: '박새보러 서울대 가기!',
       checked: true,
     },
     {
       id: 3,
-      text: '물총새보러 방이습지 가기',
+      text: '물총새보러 방이습지 가기!',
       checked: false,
     },
   ]);
